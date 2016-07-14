@@ -1,5 +1,7 @@
 # Paloalto-fw
 functions to interact with Palo Alto gateways (Tested with Pan-OS 7.1)
+Blog post: https://securitynik.blogspot.ca/2016/07/writing-palo-alto-firewall-rest-api.html
+
 
 July 14 2016:
 Initial version uploaded. Following functions included:
